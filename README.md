@@ -1,2 +1,2 @@
 # tikhexaisolcopilot
-Tikhexaisolcopilot adalah Project App berbasis web yang memanfaatkan teknologi AI pada jaringan blckchain solana . kami akan bereksperimen sembari menunggu update khususnya pada ChatGPT Milik xAI salah satunya grok. sementara kami memanfaatkan API yang diberikan oleh beberapa perusahaan diantaranya xAI (Milik Elon Musk) dan OpenAI .
+Tikhexaisolcopilot is a web-based Project App that utilizes AI technology on the solana blockchain network. we will experiment while waiting for updates especially on ChatGPT Owned by xAI, one of which is grok. while we utilize the API provided by several companies including xAI (Owned by Elon Musk) and OpenAI.
